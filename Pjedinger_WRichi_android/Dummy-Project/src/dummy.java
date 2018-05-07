@@ -3,6 +3,7 @@ public class dummy {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		String name = "Member2";
 		System.out.println("xd boi");
 		
 	}
