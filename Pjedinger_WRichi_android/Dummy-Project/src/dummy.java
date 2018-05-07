@@ -9,6 +9,8 @@ public class dummy {
 	
 	public void thisIsANewMethod() { 
 		System.out.printn("changes from Member 1");
+		System.out.println("Changes from Member2");
+
 	}
 
 }
