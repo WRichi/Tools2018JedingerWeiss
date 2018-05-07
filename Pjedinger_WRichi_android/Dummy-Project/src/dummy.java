@@ -8,7 +8,7 @@ public class dummy {
 	}
 	
 	public void thisIsANewMethod() { 
-		
+		System.out.println("Changes from Member2");
 	}
 
 }
